@@ -1,3 +1,7 @@
 Karen Rivera Giraldo
 18 años
-Mis aspiraciones con la materia son comprender los conceptos asociados a la POO y a partir de esto ser capaz de implementarlos en distintos proyectos, tanto académicos como personales.
+Mis aspiraciones con la materia son: comprender los conceptos asociados a la POO y a partir de esto ser capaz de implementarlos en distintos proyectos, tanto académicos como personales.
+
+La carpeta "archivos" ya se puede subir y visualizar en el repositorio porque ahora contiene un archivo ("respuesta.txt"), ya no es una carpeta vacía.
+
+Es importante tener cuidado al modificar un mismo archivo al tiempo ya que esto puede dar origen a conflictos en el archivo que deberán ser solucionados haciendo un manual merge.
