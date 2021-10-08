@@ -1,0 +1,1 @@
+Al hacer commit la carpeta "archivos" no se visualiza dado que es una carpeta vacía y no es tomada como un cambio al proyecto
