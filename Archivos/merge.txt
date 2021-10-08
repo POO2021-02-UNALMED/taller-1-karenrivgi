@@ -1,0 +1,1 @@
+La carpeta "archivos" ya se puede subir y visualizar en el repositorio porque ahora contiene un archivo ("respuesta.txt"), ya no es una carpeta vacía.
